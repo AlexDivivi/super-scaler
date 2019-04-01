@@ -1,0 +1,17 @@
+# conda env create|update --file environment.yml
+name: super-scaler
+dependencies:
+  - python
+  - pip
+  - pip:
+      - '--editable=.'
+      - jupyter
+      - matplotlib
+      - numpy
+      - pandas
+      - scipy
+      - seaborn
+      - sklearn
+      - pytorch
+      - imageio
+      - scikit-image
