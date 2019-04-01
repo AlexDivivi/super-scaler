@@ -12,6 +12,5 @@ dependencies:
       - scipy
       - seaborn
       - sklearn
-      - pytorch
       - imageio
       - scikit-image

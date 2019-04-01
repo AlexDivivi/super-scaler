@@ -1,5 +1,3 @@
-# INFO
-
 Final Project Data Science neue fische
 
 ## Setup
