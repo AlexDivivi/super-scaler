@@ -3,6 +3,7 @@
 ## Room for improvement
 
 Reduce model complexity
+
 Add more training data
 
 ## Setup
