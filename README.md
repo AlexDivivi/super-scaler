@@ -1,4 +1,9 @@
-# Final Project Data Science neue fische
+# Final Project Data Science neuefische
+
+## Room for improvement
+
+Reduce model complexity
+Add more training data
 
 ## Setup
 
